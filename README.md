@@ -1,2 +1,2 @@
 # Silver-Medal-in-Kaggle-Competiton-Home-Credit-Risk-Model-Stability
-Silver medal (top 5%) in Home Credit's Credit Risk Model Stability. We engineered temporal features, trained LightGBM &amp; CatBoost with time-aware GroupKFold, and built a robust ensemble prioritizing feature stability. Achieved top ranking through advanced feature engineering and model optimization.
+Silver Medal (Top 5%) in Home Credit's Credit Risk Model Stability Kaggle Competition. Implemented robust feature engineering with Polars aggregations, trained LightGBM & CatBoost using time-aware StratifiedGroupKFold validation, and built a voting ensemble for enhanced stability. Optimized predictions using temporal patterns to maximize the custom Gini stability metric.
